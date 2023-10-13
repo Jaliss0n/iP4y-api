@@ -2,7 +2,7 @@
 
 O projeto iP4y-API é uma REST-API desenvolvida com o objetivo de servir um CRUD, com base em validações definidas no desafio proposto.
 
-Link da API publicamente: [iP4y API Version](uppity-mine-production.up.railway.app)
+Link da API publicamente: [iP4y API Version](https://uppity-mine-production.up.railway.app)
 
 ## Tecnologias utilizadas
 - Java 17
