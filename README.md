@@ -15,23 +15,23 @@ Link da API publicamente: [iP4y Android Version](uppity-mine-production.up.railw
 - /client/list/{id}
 - /client/new
 - /client/update/{id}
+- /client/delete
+- /client/delete/{id}
 
+## Pré-requisitos
+
+- Java 17 instalado em sua máquina
+- Maven instalado em sua máquina
+  
 Para executar a versão de desenvolvimento em sua máquina, basta seguir os seguintes passos:
 
-1. Primeiramente, con instale as dependências do projeto executando o seguinte comando no terminal:
+1. Clone o repositório do projeto:
 
 ```bash
-npm install
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 
-2. Em seguida, execute o comando:
+2. Em seguida, inicie a classe principal da aplicação springbot. 
 
-```bash
-npx expo start
-# ou
-expo start
-```
-
-## Imagens do Projeto
 
 
